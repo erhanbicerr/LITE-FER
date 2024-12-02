@@ -4,7 +4,7 @@
 Weights for the LITE-FER and teacher networks can be accessed through [GDrive](https://drive.google.com/drive/folders/1oOKHnhOGpSt7WX4X0lhIpixc2428JX-y?usp=sharing). Performance of the network on OOD samples (other datasets than CAFE) is being explored. Below, there are samples of real-time detection of myself:
 
 
-**P.S.**
+
 - Robustness of the model in real-world applications can be enhanced further.
 - For questions&discussions: bicer21@itu.edu.tr
 
