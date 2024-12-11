@@ -5,8 +5,7 @@ Weights for the LITE-FER and teacher networks can be accessed through [GDrive](h
 
 Below, there are samples of real-time detection:
 
-<img src="https://github.com/user-attachments/assets/2021872f-1032-4041-9adf-6f2a0e69390b" width="96">
-<img src="https://github.com/user-attachments/assets/d8dd3390-5100-43c5-879e-6faf6517d309" width="256">
+<img src="https://github.com/user-attachments/assets/d8dd3390-5100-43c5-879e-6faf6517d309" width="512">
 
 
 
