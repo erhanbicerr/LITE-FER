@@ -1,4 +1,5 @@
 # LITE-FER
+["LITE-FER: A Lightweight Facial Expression Recognition Framework for Children in Resource-Limited Devices"](doi.org/10.1109/FG59268.2024.10581970)
 
 ![unnamed](https://github.com/user-attachments/assets/b8385a43-0d88-47af-9fb1-60e962a5df29)
 <img src=https://github.com/erhanbicerr/LITE-FER/assets/54547996/24485782-45ff-41c7-82b5-1e835175fce9 width="600" height="500" />
